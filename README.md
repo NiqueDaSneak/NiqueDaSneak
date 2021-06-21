@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NiqueDaSneak
+- 👋 Hi, I’m Dom
 - 👀 I’m interested in React, React Native and iOS 💻
 - 🌱 I’m currently learning TypeScript and NLP
 - 💞️ I’m looking to collaborate on front end projects 
