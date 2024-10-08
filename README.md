@@ -1,4 +1,4 @@
-👋 Hi, I’m Dom – Senior Design System Engineer & Product Leader
+👋 Hi, I’m Dom – Senior Software Engineer & Product Leader
 
 I'm passionate about building scalable, user-centric solutions that bridge the gap between engineering and design. I thrive on leading cross-functional teams, aligning technical implementation with strategic product goals, and creating impactful digital experiences.
 
